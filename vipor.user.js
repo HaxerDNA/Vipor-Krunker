@@ -2,7 +2,7 @@
 // @name          Krunker Vipor
 // @description   Mod Menu for Krunker
 // @version       1
-// @updateURL     https://github.com/HaxerDNA/HomeWare/raw/main/HomeWare-69.user.js
+// @updateURL     https://github.com/HaxerDNA/Vipor-Krunker/raw/main/vipor.user.js
 // @author        zVipor
 // @supportURL    https://discord.gg/bZv8dh8NeX
 // @homepage      Comming Soon...
